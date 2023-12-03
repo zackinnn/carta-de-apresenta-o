@@ -4,10 +4,6 @@ main {
     align-items: center;
     justify-content: space-between;
 }
-body{
-    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-ppt-dark-technology-style-background-backgroundppt-template-backgroundtechnological-image_58969.jpg);
-    background-size: cover;
-}
 
 /* Main content */
 .main-content p h1{
@@ -17,8 +13,10 @@ body{
     align-items: center;
 }
 p {
-    font-size: 1.9em;
-    color: rgb(255, 238, 0);
+    width: 50%;
+    font-size: 1.2em;
+    color: rgb(255, 255, 255);
+    margin-bottom: 5%;
 }
 main .main-content {
     display: flex;
